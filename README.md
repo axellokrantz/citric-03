@@ -23,3 +23,13 @@ Clone the DaisyExamples repository:
 ```
 git clone https://github.com/electro-smith/DaisyExamples.git
 ```
+Navigate to the `MyFolder` directory within DaisyExamples:
+```
+cd DaisyExamples/MyFolder
+```
+Create a new directory for this project and navigate into it:
+```
+mkdir citric-03
+cd citric-03
+```
+Copy the source files from this repository into the citric-03 directory.
