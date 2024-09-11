@@ -2,7 +2,7 @@
 TARGET = 303Sequencer
 
 # Sources
-CPP_SOURCES = 303Sequencer.cpp
+CPP_SOURCES = main.cpp SequencerEngine.cpp
 
 # Library Locations
 LIBDAISY_DIR = ../../libDaisy/
