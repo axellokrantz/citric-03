@@ -33,3 +33,14 @@ mkdir citric-03
 cd citric-03
 ```
 Copy the source files from this repository into the `citric-03` directory.
+
+## Building and Flashing
+- Connect your Daisy Seed board to your computer.
+- From the `citric-03` directory, build the project:
+```
+make
+```
+Flash the compiled program to your Daisy Seed:
+```
+make program-dfu
+```
