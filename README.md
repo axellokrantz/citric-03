@@ -3,6 +3,8 @@
 ## Overview
 Citric-03 is a "dumbed-down" version of the iconic TB-303 bassline sequencer, built from scratch for the Daisy Seed platform. This project aims to recreate the essence of the classic 303 sound and sequencing capabilities in a modern, customizable format.
 
+[Watch The Citric-03 Demo](https://vimeo.com/1008383645)
+
 ## Features
 - 16-step sequencer
 - Saw wave oscillator with resonant low-pass filter
