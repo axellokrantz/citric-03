@@ -32,4 +32,4 @@ Create a new directory for this project and navigate into it:
 mkdir citric-03
 cd citric-03
 ```
-Copy the source files from this repository into the citric-03 directory.
+Copy the source files from this repository into the `citric-03` directory.
