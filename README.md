@@ -20,4 +20,4 @@ Before you begin, ensure you have the following:
 
 ## Setup
 Clone the DaisyExamples repository:
-`git clone https://github.com/electro-smith/DaisyExamples.git`
+```git clone https://github.com/electro-smith/DaisyExamples.git```
