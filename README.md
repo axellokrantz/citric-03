@@ -17,3 +17,7 @@ Before you begin, ensure you have the following:
 - Daisy Seed board
 - Necessary electronic components (potentiometers, buttons, LEDs, etc.)
 - DaisyExamples repository cloned on your local machine
+
+## Setup
+Clone the DaisyExamples repository:
+`git clone https://github.com/electro-smith/DaisyExamples.git`
